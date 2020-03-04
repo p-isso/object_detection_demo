@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>V3-!-0.jpg</filename>
+	<path>C:\Users\Pawel\object_detection_demo\data\images\train\V3-!-0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>violet3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>16</ymin>
+			<xmax>149</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>
